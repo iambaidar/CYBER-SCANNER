@@ -3,16 +3,17 @@ A powerful termux based tool for network scanning and device discovery tool buil
 ![Have a look👀](.//Screenshot_2026-05-24-13-26-02-261_com.termux-edit.jpg) 
 ```
 pkg update && pkg upgrade
+```
 
-``
-
+```
 pkg install python
+```
 
-``
+```
 pkg install python3
+```
 
-``
-
+```
 python3 cyber-scanner-py
 
 ```
