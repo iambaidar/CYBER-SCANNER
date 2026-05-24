@@ -14,6 +14,14 @@ pkg install python3
 ```
 
 ```
+cd CYBER-SCANNER
+```
+
+```
+python3 CYBER-SCANNER.PY
+```
+
+```
 python3 cyber-scanner-py
 
 ```
