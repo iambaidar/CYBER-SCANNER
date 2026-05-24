@@ -13,6 +13,6 @@ pkg install python3
 
 ``
 
-python3 <tool>.py
+python3 cyber-scanner-py
 
-``
+```
