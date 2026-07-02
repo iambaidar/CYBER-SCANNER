@@ -27,31 +27,73 @@ python3 cyber-scanner-py
 ```
 <div align="center">
 
-# 🌐 BAIDAR.IR
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=8AA3D6&center=true&vCenter=true&width=435&lines=BAIDAR.IR" alt="BAIDAR.IR" />
+
+<br><br>
+
+<!-- SOCIAL BUTTONS - SAME SIZE, PERFECT STRUCTURE -->
+<a href="https://github.com/iambaidar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=24292F" width="160" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/cyber.irr?igsh=MXVsM3RlYjBxbzVicw==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B&color=E4405F" width="160" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1JbumLyrUs/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A6ED1&color=1877F2" width="160" height="48"/>
+</a>
+
+<br><br>
+
+<a href="https://x.com/thebaidar">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A&color=000000" width="160" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://whatsapp.com/channel/0029VbBHZK35fM5TATDGil3o">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366" width="160" height="48"/>
+</a>
+
+<br><br>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
+<!-- HOVER ANIMATION WITH GLOW EFFECT -->
 <a href="https://github.com/iambaidar">
-  <img src="https://img.shields.io/badge/⬛_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=24292F&logoWidth=20" width="140" height="45"/>
+  <img src="https://img.shields.io/badge/✦_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=24292F" width="160" height="48"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/cyber.irr?igsh=MXVsM3RlYjBxbzVicw==">
-  <img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B&color=E4405F&logoWidth=20" width="160" height="45"/>
+  <img src="https://img.shields.io/badge/✦_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B&color=E4405F" width="160" height="48"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/1JbumLyrUs/">
-  <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A6ED1&color=1877F2&logoWidth=20" width="150" height="45"/>
+  <img src="https://img.shields.io/badge/✦_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A6ED1&color=1877F2" width="160" height="48"/>
 </a>
+
 <br><br>
+
 <a href="https://x.com/thebaidar">
-  <img src="https://img.shields.io/badge/🐦_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A&color=000000&logoWidth=20" width="140" height="45"/>
+  <img src="https://img.shields.io/badge/✦_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A&color=000000" width="160" height="48"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://whatsapp.com/channel/0029VbBHZK35fM5TATDGil3o">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366&logoWidth=20" width="160" height="45"/>
+  <img src="https://img.shields.io/badge/✦_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366" width="160" height="48"/>
 </a>
 
 <br><br>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Made with ❤️ by BAIDAR.IR**
+<br>
+
+<!-- BOTTOM TEXT WITH ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=6F81A8&center=true&vCenter=true&width=435&lines=Made+with+❤️+by+BAIDAR.IR" alt="Made with ❤️ by BAIDAR.IR" />
 
 </div>
