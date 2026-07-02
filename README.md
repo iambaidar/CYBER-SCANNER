@@ -25,29 +25,35 @@ python3 CYBER-SCANNER.PY
 python3 cyber-scanner-py
 
 ```
-
 <div align="center">
 
 <br>
 
+<!-- Header like your HTML -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=500&color=8AA3D6&center=true&vCenter=true&width=435&lines=BAIDAR.IR" alt="BAIDAR.IR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=8AA3D6&center=true&vCenter=true&width=435&lines=👑+BAIDAR.IR" alt="BAIDAR.IR" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-4CAF50?style=flat-square&labelColor=1a1f2b&color=4CAF50" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LINKS-5-3B82F6?style=flat-square&labelColor=1a1f2b&color=3B82F6" />
+</p>
 
 <br>
 
-<!-- SOCIAL BUTTONS - SAME SIZE -->
+<!-- Social Buttons - Same Size & Style -->
 <p align="center">
   <a href="https://github.com/iambaidar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=24292F" width="160" height="48"/>
+    <img src="https://img.shields.io/badge/⬛_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=24292F" width="170" height="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/cyber.irr?igsh=MXVsM3RlYjBxbzVicw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B&color=E4405F" width="160" height="48"/>
+    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B&color=E4405F" width="170" height="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1JbumLyrUs/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A6ED1&color=1877F2" width="160" height="48"/>
+    <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A6ED1&color=1877F2" width="170" height="50"/>
   </a>
 </p>
 
@@ -55,23 +61,24 @@ python3 cyber-scanner-py
 
 <p align="center">
   <a href="https://x.com/thebaidar">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A&color=000000" width="160" height="48"/>
+    <img src="https://img.shields.io/badge/🐦_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A&color=000000" width="170" height="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://whatsapp.com/channel/0029VbBHZK35fM5TATDGil3o">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366" width="160" height="48"/>
+    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366" width="170" height="50"/>
   </a>
 </p>
 
 <br>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+<!-- Animated Divider like your card border -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 
 <br>
 
+<!-- Footer like your HTML -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=6F81A8&center=true&vCenter=true&width=435&lines=Made+with+❤️+by+BAIDAR.IR" alt="Made with ❤️ by BAIDAR.IR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=1000&color=6F81A8&center=true&vCenter=true&width=435&lines=social+connect+·+cyber.irr" alt="social connect · cyber.irr" />
 </p>
 
 </div>
