@@ -22,34 +22,26 @@ python3 CYBER-SCANNER.PY
 ```
 <div align="center">
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<a href="https://github.com/iambaidar" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/cyber.irr?igsh=MXVsM3RlYjBxbzVicw==" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/thebaidar" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/ffffff" height="55" alt="X (Twitter)"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/share/1JbumLyrUs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="55" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://whatsapp.com/channel/0029VbBHZK35fM5TATDGil3o" target="_blank">
-  <img src="https://skillicons.dev/icons?i=whatsapp" height="55" alt="WhatsApp"/>
+<a href="https://github.com/iambaidar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+<a href="https://www.instagram.com/cyber.irr?igsh=MXVsM3RlYjBxbzVicw==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Ethical+Hacker;Open+Source+Developer;Welcome+to+my+GitHub+Profile" />
+<a href="https://x.com/thebaidar">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/1JbumLyrUs/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://whatsapp.com/channel/0029VbBHZK35fM5TATDGil3o">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 </div>
